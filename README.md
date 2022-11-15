@@ -8,11 +8,11 @@ Data pemegang polis di perusahaan asuransi merupakan data historis, terdiri dari
 ## Problem statement
 Apakah nasabah/customer akan melakukan claim atau tidak?
 
-##Goals
+## Goals
 Melakukan prediksi terhadap customer akan claim atau tidak
 Memaksimalkan penjualan polis untuk product yang jarang di claim
 
-##Analytic Approach
+## Analytic Approach
 Melakukan analisa data untuk menemukan pola yang membedakan pemegang polis yang mengajukan klaim dan yang tidak mengajukan klaim.
 
 Selanjutnya, membangun model deteksi yang akan membantu perusahaan untuk dapat memprediksi probabilitas seorang pemegang polis akan mengajukan klaim asuransi atau tidak
